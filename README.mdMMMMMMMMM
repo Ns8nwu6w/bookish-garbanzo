@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <html lang="ar" dir="rtl">
+  <title>تاني تاني</title>
+</head>
+<body>
+  <h1>شعبة: 1</h1>
+  <p>المادة: حساب</p>
+  <h2>أستاذ: خالد السمرى</h2>
+  <ol>
+    <li>قارء معد</li>
+    <li>تجنب المخاطر</li>
+    <li>قورقر</li>
+  </ol>
+  <a href="https://schools.madrasati.sa" target="_blank">داضغط على الرابط لدخولك الى منصه مدرستي.</a>
+  <br>
+  <img src="https://moe.gov.sa/_layouts/15/portal/images/colored-logo.png" width="300" height="200"/>
+</body>
+</html>
